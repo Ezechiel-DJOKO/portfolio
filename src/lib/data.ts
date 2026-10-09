@@ -99,7 +99,9 @@ export const cvData: CVDataType = {
     { title: "LLM", fileUrl: "/documents/certs/llm.pdf" },
     { title: "L'IA pour le travail", fileUrl: "/documents/certs/ai-work.pdf" },
     { title: "IA générative", fileUrl: "/documents/certs/ia-generatrice.pdf" },
-    { title: "Éthique de l’IA", fileUrl: "/documents/certs/ethique-ia.pdf" }
+    { title: "Éthique de l’IA", fileUrl: "/documents/certs/ethique-ia.pdf" },
+    { title: "Python_Essentiels", fileUrl: "/documents/certs/Python_Essentials_1_Netcard.pdf" }
+
   ],
   skills: [
     { category: "Réseaux & Sécurité", tags: ["Réseaux informatiques", "Cybersécurité", "Administration réseau", "Sécurité des systèmes"] },
